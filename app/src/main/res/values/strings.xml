@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Wifi Status Android TV</string>
+    <string name="message">Hello Android TV</string>
+    <string name="wifi">Wifi Status</string>
+</resources>
